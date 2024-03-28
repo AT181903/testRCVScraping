@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PV Sitting.Date="2021-12-13" Sitting.Identifier="2988971" Document.Language="EN" EP.Number="PE 702.882"
+    EP.Reference="P9_PV(2021)12-13" xmlns:chart="http://openoffice.org/2000/chart"
+    xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:draw="http://openoffice.org/2000/drawing"
+    xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:form="http://openoffice.org/2000/form"
+    xmlns:ino="http://namespaces.softwareag.com/tamino/response2" xmlns:math="http://www.w3.org/1998/Math/MathML"
+    xmlns:number="http://openoffice.org/2000/datastyle" xmlns:office="http://openoffice.org/2000/office"
+    xmlns:script="http://openoffice.org/2000/script" xmlns:style="http://openoffice.org/2000/style"
+    xmlns:svg="http://www.w3.org/2000/svg" xmlns:table="http://openoffice.org/2000/table"
+    xmlns:text="http://openoffice.org/2000/text" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xql="http://metalab.unc.edu/xql/">
+    <PV.Legend.Text>
+        <table:table fo:background-color="transparent" fo:break-before="page" fo:margin-bottom="0.3cm"
+                     fo:margin-left="0cm" fo:margin-right="-0.025cm" fo:margin-top="0.3cm" style:width="14.499cm"
+                     table:align="margins">
+            <table:table-column style:column-width="2.492cm" style:rel-column-width="11266*"/>
+            <table:table-column style:column-width="12.007cm" style:rel-column-width="54269*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:align="center">KEYS TO SYMBOLS USED
+                        <text:line-break/>
+                    </text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>*</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Consultation procedure</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>***</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Consent procedure</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>***I</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Ordinary legislative procedure: first reading</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>***II</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Ordinary legislative procedure: second reading</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>***III</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Ordinary legislative procedure: third reading</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>(The type of procedure is determined by the legal basis proposed in the draft act.)</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:align="center">ABBREVIATIONS USED FOR PARLIAMENTARY COMMITTEES</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:align="center"/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>AFET</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Foreign Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>DEVE</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Development</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>INTA</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on International Trade</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>BUDG</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Budgets</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>CONT</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Budgetary Control</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>ECON</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Economic and Monetary Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>EMPL</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Employment and Social Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>ENVI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on the Environment, Public Health and Food Safety</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>ITRE</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Industry, Research and Energy</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>IMCO</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on the Internal Market and Consumer Protection</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>TRAN</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Transport and Tourism</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>REGI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Regional Development</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>AGRI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Agriculture and Rural Development</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>PECH</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Fisheries</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>CULT</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Culture and Education</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>JURI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Legal Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>LIBE</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Civil Liberties, Justice and Home Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>AFCO</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Constitutional Affairs</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>FEMM</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Women’s Rights and Gender Equality</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>PETI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Committee on Petitions</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent"/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent"/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>DROI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Subcommittee on Human Rights</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell>
+                    <table:sub-table>
+                        <table:table-column style:column-width="2.492cm" style:rel-column-width="11266*"/>
+                        <table:table-row>
+                            <table:table-cell fo:border="none" fo:padding="0cm">
+                                <text:p>SEDE</text:p>
+                            </table:table-cell>
+                        </table:table-row>
+                        <table:table-row>
+                            <table:table-cell fo:border="none" fo:padding="0cm">
+                                <text:p>FISC</text:p>
+                            </table:table-cell>
+                        </table:table-row>
+                    </table:sub-table>
+                </table:table-cell>
+                <table:table-cell>
+                    <table:sub-table>
+                        <table:table-column style:column-width="12.007cm" style:rel-column-width="54269*"/>
+                        <table:table-row>
+                            <table:table-cell fo:border="none" fo:padding="0cm">
+                                <text:p>Subcommittee on Security and Defence</text:p>
+                            </table:table-cell>
+                        </table:table-row>
+                        <table:table-row>
+                            <table:table-cell fo:border="none" fo:padding="0cm">
+                                <text:p>Subcommittee on Tax Matters</text:p>
+                            </table:table-cell>
+                        </table:table-row>
+                    </table:sub-table>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:align="center">ABBREVIATIONS USED FOR POLITICAL GROUPS</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent"/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000"/>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">PPE</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000">Group of the European People’s Party (Christian Democrats)</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">S&amp;D</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000">Group of the Progressive Alliance of Socialists and Democrats in the
+                        European Parliament
+                    </text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">Renew</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:style="normal">Renew Europe Group</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">Verts/ALE</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000">Group of the Greens / European Free Alliance</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">ID</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000">Identity and Democracy Group</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">ECR</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>European Conservatives and Reformists Group</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">The Left</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>The Left Group in the European Parliament – GUE/NGL</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent">NI</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>Non-attached Members</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:background-color="transparent"/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p text:color="#000000"/>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+    </PV.Legend.Text>
+    <PV.Session.Resumption.Text>
+        <text:p text:weight="bold" text:align="center">EUROPEAN PARLIAMENT</text:p>
+        <text:p text:weight="bold" text:align="center">2021 - 2022 SESSION</text:p>
+        <text:p text:weight="bold" text:align="center">Sittings of 13 to 16 December 2021</text:p>
+        <text:p text:weight="bold" text:align="center">STRASBOURG</text:p>
+        <text:p text:weight="bold" text:align="center">MINUTES</text:p>
+        <text:p text:weight="bold" text:align="center">MONDAY 13 DECEMBER 2021</text:p>
+        <text:p text:weight="normal" text:align="center">
+            <Orator.ChangeOfPresident.Text>IN THE CHAIR: David Maria SASSOLI<text:line-break/>President
+            </Orator.ChangeOfPresident.Text>
+        </text:p>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>1</text:chapter-number>Resumption of the session
+        </text:h>
+        <text:p>The session adjourned on Thursday 25 November 2021 was resumed.</text:p>
+    </PV.Session.Resumption.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>2</text:chapter-number>Opening of the sitting
+        </text:h>
+        <text:p>The sitting opened at 17.03.</text:p>
+    </PV.Other.Text>
+    <PV.Statement.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>3</text:chapter-number>Statement by the President
+        </text:h>
+        <text:p>The President made a statement on the terrorist attack that shocked the city of Strasbourg on 11
+            December 2018. He recalled our duty to defend the values and freedoms that are the foundation of our
+            pluralist, diverse and inclusive society.
+        </text:p>
+        <text:p>Parliament observed a minute’s silence in memory of the victims.</text:p>
+    </PV.Statement.Text>
+    <PV.Approval.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>4</text:chapter-number>Approval of the minutes of
+            the previous sittings
+        </text:h>
+        <text:p>The minutes of the sittings of 23, 24, 25 and 26 November 2021 were approved.</text:p>
+    </PV.Approval.Text>
+    <PV.Deposit.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>5</text:chapter-number>Composition of Parliament
+        </text:h>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6806">Johan Danielsson</Orator.Name>
+            </Orator.List.Text>
+            had given notice of his appointment as the Swedish Government’s Minister for Housing and Deputy Minister for
+            Employment.
+        </text:p>
+        <text:p>Parliament noted that, pursuant to Article 7(1) of the Act of 20 September 1976 concerning the election
+            of the members of the European Parliament by direct universal suffrage, the office was incompatible with
+            that of Member of the European Parliament, and pursuant to Rule 3(2)(2), and Rule 4 (1) and (4), Parliament
+            established that the seat would be vacant as of 30 November 2021.
+        </text:p>
+        <text:p text:weight="bold" text:align="center">⁂</text:p>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="3827">Evelyne Gebhardt</Orator.Name>
+            </Orator.List.Text>
+            had given notice in writing of her resignation as a Member of Parliament, with effect from 2 February 2022.
+        </text:p>
+        <text:p>Pursuant to Rule 4(1), (2) and (6), Parliament established the vacancy of her seat with effect from that
+            date and informed the <text:span>relevant</text:span> national authorities thereof.
+        </text:p>
+        <text:p text:weight="bold" text:align="center">⁂</text:p>
+        <text:p>The German authorities had given notice of the election of Karsten Lucke to replace
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6016">Norbert Neuser</Orator.Name>
+            </Orator.List.Text>
+            as Member of Parliament with effect from 11 January 2022.
+        </text:p>
+        <text:p>Parliament took note of his election.</text:p>
+        <text:p>Under Rule 3(2), until such time as his credentials had been verified or a ruling had been given on any
+            dispute, and provided that he had previously made a written declaration stating that he did not hold any
+            office incompatible with that of Member of the European Parliament, Karsten Lucke would take his seat in
+            Parliament and on its bodies and would enjoy all the rights attaching thereto.
+        </text:p>
+    </PV.Deposit.Text>
+    <PV.Membership.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>6</text:chapter-number>Composition of political
+            groups
+        </text:h>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="7153">Michal Wiezik</Orator.Name>
+            </Orator.List.Text>
+            was no longer a member of the PPE Group and had joined the Renew Group as of 8 December 2021.
+        </text:p>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="7278">Dorien Rookmaker</Orator.Name>
+            </Orator.List.Text>
+            was no longer sitting with the non-attached Members and had joined the ECR Group as of 8 December 2021.
+        </text:p>
+    </PV.Membership.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>7</text:chapter-number>Composition of committees
+            and delegations
+        </text:h>
+        <text:p>The S&amp;D, Renew and ID groups had <text:span>notified the President of the following decisions
+            changing the composition of committees and delegations</text:span>:
+        </text:p>
+        <text:p>Committee on Foreign Affairs:
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6759">Jörg Meuthen</Orator.Name>
+            </Orator.List.Text>
+            to replace
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6878">Maximilian Krah</Orator.Name>
+            </Orator.List.Text>
+        </text:p>
+        <text:p>Committee on Budgetary Control:
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="7153">Michal Wiezik</Orator.Name>
+            </Orator.List.Text>
+            to replace
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6340">Martina Dlabajová</Orator.Name>
+            </Orator.List.Text>
+        </text:p>
+        <text:p>Committee on Petitions:
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6817">Monica Semedo</Orator.Name>
+            </Orator.List.Text>
+            was no longer a member
+        </text:p>
+        <text:p>Delegation for Northern cooperation and for relations with Switzerland and Norway and to the EU-Iceland
+            Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee:
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6796">Erik Bergkvist</Orator.Name>
+            </Orator.List.Text>
+        </text:p>
+        <text:p>The decisions took effect as of that day.</text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>8</text:chapter-number>
+            <text:span>Negotiations ahead of Parliament</text:span>
+            <text:span>’</text:span>
+            <text:span>s first</text:span>
+            reading
+            <text:span text:weight="normal">(Rule 71)</text:span>
+        </text:h>
+        <text:p>The ECON and PECH committees <text:span>had decided to enter into interinstitutional negotiations in
+            accordance with Rule 71, on the basis of the following reports:
+        </text:span>
+        </text:p>
+        <text:p>- ECON Committee: proposal for a regulation of the European Parliament and of the Council on digital
+            operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No
+            648/2012, (EU) No 600/2014 and (EU) No 909/2014 (<a href="#reds:iEcCom/COM-2020-0595" data-rel="reds"
+                                                                redmap-uri="/reds:iEcCom/COM-2020-0595">COM(2020)0595
+            </a> – C9-0304/2020 – <a href="#reds:DirContProc/COD-2020-0266" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0266">2020/0266(COD)</a>) – Rapporteur:
+            Billy Kelleher (<a href="#reds:iPlRp/A-9-2021-0341" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0341">
+                A9-0341/2021</a>);
+        </text:p>
+        <text:p>- ECON Committee: proposal for a directive of the European Parliament and of the Council amending
+            Directives 2006/43/EC, 2009/65/EC, 2009/138/EU, 2011/61/EU, 2013/36/EU, 2014/65/EU, (EU) 2015/2366 and (EU)
+            2016/2341 (<a href="#reds:iEcCom/COM-2020-0596" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2020-0596">
+                COM(2020)0596
+            </a> – C9-0303/2020 – <a href="#reds:DirContProc/COD-2020-0268" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0268">2020/0268(COD)</a>) – Rapporteur:
+            Mikuláš Peksa (<a href="#reds:iPlRp/A-9-2021-0340" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0340">
+                A9-0340/2021</a>);
+        </text:p>
+        <text:p>- PECH Committee: proposal for a regulation of the European Parliament and of the Council laying down
+            management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of
+            Competence, amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007 (<a
+                    href="#reds:iEcCom/COM-2021-0113" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2021-0113">
+                COM(2021)0113
+            </a> – C9-0095/2021 – <a href="#reds:DirContProc/COD-2021-0058" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2021-0058">2021/0058(COD)</a>) – Rapporteur:
+            Gabriel Mato (<a href="#reds:iPlRp/A-9-2021-0312" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0312">
+                A9-0312/2021</a>).
+        </text:p>
+        <text:p><text:span>In accordance with Rule 71(2), requests for the decisions to be put to the vote could be
+            submitted until midnight the following day</text:span>, 14 December 2021.
+        </text:p>
+        <text:p>Negotiations may start at any time after that deadline has expired if no request for a vote on the
+            decision to enter into negotiations has been made.
+        </text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>9</text:chapter-number>Signing of acts adopted in
+            accordance with the ordinary legislative procedure
+            <text:span text:weight="normal">(Rule 79)</text:span>
+        </text:h>
+        <text:p>Since the adjournment of the session on 25 November 2021, the President of Parliament, together with the
+            President of the Council, had signed the following acts adopted under the ordinary legislative procedure:
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0444/2021">- Regulation of the European Parliament and of the Council
+                establishing rules on support for strategic plans to be drawn up by Member States under the common
+                agricultural policy (CAP strategic plans) and financed by the European Agricultural Guarantee Fund
+                (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations
+                (EU) No 1305/2013 and (EU) No 1307/2013 (00064/2021/LEX - C9-0444/2021 - <a
+                        href="#reds:DirContProc/COD-2018-0216" data-rel="reds"
+                        redmap-uri="/reds:DirContProc/COD-2018-0216">2018/0216(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0442/2021">- Regulation of the European Parliament and of the Council on the
+                financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No
+                1306/2013 (00065/2021/LEX - C9-0442/2021 - <a href="#reds:DirContProc/COD-2018-0217" data-rel="reds"
+                                                              redmap-uri="/reds:DirContProc/COD-2018-0217">
+                    2018/0217(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0443/2021">- Regulation of the European Parliament and of the Council amending
+                Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural
+                products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No
+                251/2014 on the definition, description, presentation, labelling and the protection of geographical
+                indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for
+                agriculture in the outermost regions of the Union (00066/2021/LEX - C9-0443/2021 - <a
+                        href="#reds:DirContProc/COD-2018-0218" data-rel="reds"
+                        redmap-uri="/reds:DirContProc/COD-2018-0218">2018/0218(COD)</a>)
+            </Aptecom.Text>
+            .
+        </text:p>
+        <text:p>On 15 December 2021, the President of Parliament, together with the President of the Council, would sign
+            the following acts adopted under the ordinary legislative procedure:
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0459/2021">- Regulation of the European Parliament and of the Council on the
+                European Union Agency for Asylum and repealing Regulation (EU) No 439/2010 (00061/2021/LEX -
+                C9-0459/2021 - <a href="#reds:DirContProc/COD-2016-0131" data-rel="reds"
+                                  redmap-uri="/reds:DirContProc/COD-2016-0131">2016/0131(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0460/2021">- Regulation of the European Parliament and of the Council amending
+                Regulation (EU) 2015/848 on insolvency proceedings to replace its Annexes A and B (00073/2021/LEX -
+                C9-0460/2021 - <a href="#reds:DirContProc/COD-2021-0118" data-rel="reds"
+                                  redmap-uri="/reds:DirContProc/COD-2021-0118">2021/0118(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0462/2021">- Regulation of the European Parliament and of the Council amending
+                Regulation (EU) No 1286/2014 as regards the extension of the transitional arrangement for management
+                companies, investment companies and persons advising on, or selling, units of undertakings for
+                collective investment in transferable securities (UCITS) and non-UCITS (00071/2021/LEX - C9-0462/2021 - <a
+                        href="#reds:DirContProc/COD-2021-0215" data-rel="reds"
+                        redmap-uri="/reds:DirContProc/COD-2021-0215">2021/0215(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0463/2021">- Directive of the European Parliament and of the Council amending
+                Directive 2009/65/EC as regards the use of key information documents by management companies of
+                undertakings for collective investment in transferable securities (UCITS) (00072/2021/LEX - C9-0463/2021
+                - <a href="#reds:DirContProc/COD-2021-0219" data-rel="reds"
+                     redmap-uri="/reds:DirContProc/COD-2021-0219">2021/0219(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0464/2021">- Regulation of the European Parliament and of the Council amending
+                Regulation (EU) 2018/1091 as regards the Union contribution for integrated farm statistics under Council
+                Regulation (EU, Euratom) 2020/2093 laying down the multiannual financial framework for the years 2021 to
+                2027 (00070/2021/LEX - C9-0464/2021 - <a href="#reds:DirContProc/COD-2021-0270" data-rel="reds"
+                                                         redmap-uri="/reds:DirContProc/COD-2021-0270">2021/0270(COD)</a>)
+            </Aptecom.Text>
+            ;
+        </text:p>
+        <text:p>
+            <Aptecom.Text Identifier="C9-0452/2021">- Regulation of the European Parliament and of the Council on health
+                technology assessment and amending Directive 2011/24/EU (00080/2021/LEX - C9-0452/2021 - <a
+                        href="#reds:DirContProc/COD-2018-0018" data-rel="reds"
+                        redmap-uri="/reds:DirContProc/COD-2018-0018">2018/0018(COD)</a>)
+            </Aptecom.Text>
+            .
+        </text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>10</text:chapter-number>Action taken on
+            Parliament’s resolutions
+        </text:h>
+        <text:p>The Commission communications on the action taken on the resolutions adopted by Parliament during the
+            May and July part-sessions in 2021 were available on Parliament’s website.
+        </text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>11</text:chapter-number>Questions for oral answer
+            <text:span text:weight="normal">(submission)</text:span>
+        </text:h>
+        <text:p>The following questions for oral answer with debate had been placed on the agenda (Rule 136):</text:p>
+        <text:p>-
+            <Document.Reference.List.Text>
+                <Document.Reference.Text Document.Identifier="O-000072/2021">
+                    <a href="#reds:iMaQp/O-9-2021-000072" data-rel="reds" redmap-uri="/reds:iMaQp/O-9-2021-000072">
+                        O-000072/2021
+                    </a>
+                </Document.Reference.Text>
+            </Document.Reference.List.Text>
+            by
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6847">Anna Cavazzini</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of the IMCO Committee, to the Commission:
+            <OJ.MotionForResolution.Text Report.Document.Reference="B9-0043/2021">Barriers to the free movement of goods
+                (<a href="#reds:iPlReqo/QOB-9-2021-0043" data-rel="reds" redmap-uri="/reds:iPlReqo/QOB-9-2021-0043">
+                    B9-0043/2021</a>)
+            </OJ.MotionForResolution.Text>
+            ;
+        </text:p>
+        <text:p>-
+            <Document.Reference.List.Text>
+                <Document.Reference.Text Document.Identifier="O-000073/2021">
+                    <a href="#reds:iMaQp/O-9-2021-000073" data-rel="reds" redmap-uri="/reds:iMaQp/O-9-2021-000073">
+                        O-000073/2021
+                    </a>
+                </Document.Reference.Text>
+            </Document.Reference.List.Text>
+            by
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="3823">Bernd Lange</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of the INTA Committee, to the Commission:
+            <OJ.MotionForResolution.Text Report.Document.Reference="B9-0044/2021">Implementation of the Kimberley
+                Process Certification Scheme (<a href="#reds:iPlReqo/QOB-9-2021-0044" data-rel="reds"
+                                                 redmap-uri="/reds:iPlReqo/QOB-9-2021-0044">B9-0044/2021</a>)
+            </OJ.MotionForResolution.Text>
+            ;
+        </text:p>
+        <text:p>-
+            <Document.Reference.List.Text>
+                <Document.Reference.Text Document.Identifier="O-000074/2021">
+                    <a href="#reds:iMaQp/O-9-2021-000074" data-rel="reds" redmap-uri="/reds:iMaQp/O-9-2021-000074">
+                        O-000074/2021
+                    </a>
+                </Document.Reference.Text>
+            </Document.Reference.List.Text>
+            by
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6136">Evelyn Regner</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of the FEMM Committee, to the Commission:
+            <OJ.MotionForResolution.Text Report.Document.Reference="B9-0045/2021">MeToo and harassment – the
+                consequences for the EU institutions (<a href="#reds:iPlReqo/QOB-9-2021-0045" data-rel="reds"
+                                                         redmap-uri="/reds:iPlReqo/QOB-9-2021-0045">B9-0045/2021</a>)
+            </OJ.MotionForResolution.Text>
+            .
+        </text:p>
+    </PV.Other.Text>
+    <PV.Deposit.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>12</text:chapter-number>Documents received
+        </text:h>
+        <text:p>The following documents had been received:</text:p>
+        <text:p>1) from other institutions</text:p>
+        <text:p>- Proposal for a regulation of the European Parliament and of the Council on measures against transport
+            operators that facilitate or engage in trafficking in persons or smuggling of migrants in relation to
+            illegal entry into the territory of the European Union (<a href="#reds:iEcCom/COM-2021-0753" data-rel="reds"
+                                                                       redmap-uri="/reds:iEcCom/COM-2021-0753">
+                COM(2021)0753
+            </a> - C9-0431/2021 -
+            <a href="#reds:DirContProc/COD-2021-0387" data-rel="reds" redmap-uri="/reds:DirContProc/COD-2021-0387">
+                2021/0387(COD)
+            </a>
+            <text:line-break/>The President would consult the European Economic and Social Committee and the Committee
+            of the Regions on this proposal, in accordance with Rule 145(1) and Rule 146(1).
+        </text:p>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>referred to</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>responsible :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>TRAN</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>opinion :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>LIBE</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <text:p>- Proposal for a regulation of the European Parliament and of the Council on the transparency and
+            targeting of political advertising (<a href="#reds:iEcCom/COM-2021-0731" data-rel="reds"
+                                                   redmap-uri="/reds:iEcCom/COM-2021-0731">COM(2021)0731
+            </a> – C9-0433/2021 – <a href="#reds:DirContProc/COD-2021-0381" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2021-0381">2021/0381(COD)</a>)<text:line-break/>
+            The President would consult the European Economic and Social Committee on this proposal, in accordance with
+            Rule 145(1).
+        </text:p>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>referred to</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>responsible :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>IMCO</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>opinion :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>CULT, JURI, LIBE, AFCO</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <text:p>- Proposal for a directive of the European Parliament and of the Council laying down for certain road
+            vehicles circulating within the Union the maximum authorised dimensions in national and international
+            traffic and the maximum authorised weights in international traffic (codification) (<a
+                    href="#reds:iEcCom/COM-2021-0769" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2021-0769">
+                COM(2021)0769
+            </a> – C9-0453/2021 – <a href="#reds:DirContProc/COD-2021-0400" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2021-0400">2021/0400(COD)</a>)<text:line-break/>
+            The President would consult the European Economic and Social Committee and the Committee of the Regions on
+            this proposal, in accordance with Rule 145(1) and Rule 146(1).
+        </text:p>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>referred to</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>responsible :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>JURI</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <text:p>- Proposal for a Council directive amending Directive 2006/112/EC as regards rates of value added tax –
+            General approach (14754/2021 – C9-0456/2021 – <a href="#reds:DirContProc/CNS-2018-0005" data-rel="reds"
+                                                             redmap-uri="/reds:DirContProc/CNS-2018-0005">
+                2018/0005(CNS)</a>)
+        </text:p>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="0.457cm" style:rel-column-width="3250*"/>
+            <table:table-column style:column-width="3.014cm" style:rel-column-width="21455*"/>
+            <table:table-column style:column-width="1.535cm" style:rel-column-width="10919*"/>
+            <table:table-column style:column-width="4.203cm" style:rel-column-width="29911*"/>
+            <table:table-row>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p/>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>referred to</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>responsible :</text:p>
+                </table:table-cell>
+                <table:table-cell fo:border="none" fo:padding="0cm">
+                    <text:p>ECON</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+        <text:p>2) from committees</text:p>
+        <text:p>2.1) reports</text:p>
+        <text:p>- ***I Report on the proposal for a directive of the European Parliament and of the Council on measures
+            for a high common level of cybersecurity across the Union, repealing Directive (EU) 2016/1148 (<a
+                    href="#reds:iEcCom/COM-2020-0823" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2020-0823">
+                COM(2020)0823
+            </a> – C9-0422/2020 – <a href="#reds:DirContProc/COD-2020-0359" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0359">2020/0359(COD)</a>) – ITRE Committee –
+            Rapporteur: Bart Groothuis (<a href="#reds:iPlRp/A-9-2021-0313" data-rel="reds"
+                                           redmap-uri="/reds:iPlRp/A-9-2021-0313">A9-0313/2021</a>)
+        </text:p>
+        <text:p>- Report on the evaluation of preventive measures for avoiding corruption, irregular spending and misuse
+            of EU and national funds in case of emergency funds and crisis-related spending areas (<a
+                    href="#reds:DirContProc/INI-2020-2222" data-rel="reds" redmap-uri="/reds:DirContProc/INI-2020-2222">
+                2020/2222(INI)</a>) – CONT Committee – Rapporteur: Michèle Rivasi (<a href="#reds:iPlRp/A-9-2021-0320"
+                                                                                      data-rel="reds"
+                                                                                      redmap-uri="/reds:iPlRp/A-9-2021-0320">
+                A9-0320/2021</a>)
+        </text:p>
+        <text:p>- Report on the implementation of the Energy Performance of Buildings Directive (<a
+                href="#reds:DirContProc/INI-2021-2077" data-rel="reds" redmap-uri="/reds:DirContProc/INI-2021-2077">
+            2021/2077(INI)</a>) – ITRE Committee – Rapporteur: Seán Kelly (<a href="#reds:iPlRp/A-9-2021-0321"
+                                                                              data-rel="reds"
+                                                                              redmap-uri="/reds:iPlRp/A-9-2021-0321">
+            A9-0321/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on Proposal for a decision of the European Parliament and of the Council on a European
+            Year of Youth 2022 (<a href="#reds:iEcCom/COM-2021-0634" data-rel="reds"
+                                   redmap-uri="/reds:iEcCom/COM-2021-0634">COM(2021)0634
+            </a> – C9-0379/2021 – <a href="#reds:DirContProc/COD-2021-0328" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2021-0328">2021/0328(COD)</a>) – CULT Committee –
+            Rapporteur: Sabine Verheyen (<a href="#reds:iPlRp/A-9-2021-0322" data-rel="reds"
+                                            redmap-uri="/reds:iPlRp/A-9-2021-0322">A9-0322/2021</a>)
+        </text:p>
+        <text:p>- Report on the deliberations of the Committee on Petitions in 2020 (<a
+                href="#reds:DirContProc/INI-2021-2019" data-rel="reds" redmap-uri="/reds:DirContProc/INI-2021-2019">
+            2021/2019(INI)</a>) – PETI Committee – Rapporteur: Gheorghe Falcă (<a href="#reds:iPlRp/A-9-2021-0323"
+                                                                                  data-rel="reds"
+                                                                                  redmap-uri="/reds:iPlRp/A-9-2021-0323">
+            A9-0323/2021</a>)
+        </text:p>
+        <text:p>- Report on the challenges and prospects for multilateral weapons of mass destruction arms control and
+            disarmament regimes (<a href="#reds:DirContProc/INI-2020-2001" data-rel="reds"
+                                    redmap-uri="/reds:DirContProc/INI-2020-2001">2020/2001(INI)</a>) – AFET Committee –
+            Rapporteur: Sven Mikser (<a href="#reds:iPlRp/A-9-2021-0324" data-rel="reds"
+                                        redmap-uri="/reds:iPlRp/A-9-2021-0324">A9-0324/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on the proposal for a directive of the European Parliament and of the Council on the
+            adequate minimum wages in the European Union (<a href="#reds:iEcCom/COM-2020-0682" data-rel="reds"
+                                                             redmap-uri="/reds:iEcCom/COM-2020-0682">COM(2020)0682
+            </a> – C9-0337/2020 – <a href="#reds:DirContProc/COD-2020-0310" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0310">2020/0310(COD)</a>) – EMPL Committee –
+            Rapporteurs: Dennis Radtke, Agnes Jongerius (<a href="#reds:iPlRp/A-9-2021-0325" data-rel="reds"
+                                                            redmap-uri="/reds:iPlRp/A-9-2021-0325">A9-0325/2021</a>)
+        </text:p>
+        <text:p>- Report on new orientations for the EU’s humanitarian action (<a href="#reds:DirContProc/INI-2021-2163"
+                                                                                  data-rel="reds"
+                                                                                  redmap-uri="/reds:DirContProc/INI-2021-2163">
+            2021/2163(INI)</a>) – DEVE Committee – Rapporteur: Norbert Neuser (<a href="#reds:iPlRp/A-9-2021-0328"
+                                                                                  data-rel="reds"
+                                                                                  redmap-uri="/reds:iPlRp/A-9-2021-0328">
+            A9-0328/2021</a>)
+        </text:p>
+        <text:p>- Report on the impact of organised crime on own resources of the EU and on the misuse of EU funds with
+            a particular focus on shared management from an auditing and control perspective (<a
+                    href="#reds:DirContProc/INI-2020-2221" data-rel="reds" redmap-uri="/reds:DirContProc/INI-2020-2221">
+                2020/2221(INI)</a>) – CONT Committee – Rapporteur: Tomáš Zdechovský (<a href="#reds:iPlRp/A-9-2021-0330"
+                                                                                        data-rel="reds"
+                                                                                        redmap-uri="/reds:iPlRp/A-9-2021-0330">
+                A9-0330/2021</a>)
+        </text:p>
+        <text:p>- Report on democracy at work: a European framework for employees’ participation rights and the revision
+            of the European Works Council Directive (<a href="#reds:DirContProc/INI-2021-2005" data-rel="reds"
+                                                        redmap-uri="/reds:DirContProc/INI-2021-2005">2021/2005(INI)</a>)
+            – EMPL Committee – Rapporteur: Gabriele Bischoff (<a href="#reds:iPlRp/A-9-2021-0331" data-rel="reds"
+                                                                 redmap-uri="/reds:iPlRp/A-9-2021-0331">A9-0331/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on the proposal for a regulation of the European Parliament and of the Council on
+            contestable and fair markets in the digital sector (Digital Markets Act) (<a
+                    href="#reds:iEcCom/COM-2020-0842" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2020-0842">
+                COM(2020)0842
+            </a> – C9-0419/2020 – <a href="#reds:DirContProc/COD-2020-0374" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0374">2020/0374(COD)</a>) – IMCO Committee –
+            Rapporteur: Andreas Schwab (<a href="#reds:iPlRp/A-9-2021-0332" data-rel="reds"
+                                           redmap-uri="/reds:iPlRp/A-9-2021-0332">A9-0332/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on the proposal for a regulation of the European Parliament and of the Council amending
+            Regulation (EU) 2019/216 of the European Parliament and of the Council as regards Union tariff rate quota
+            for high quality beef from Paraguay (<a href="#reds:iEcCom/COM-2021-0313" data-rel="reds"
+                                                    redmap-uri="/reds:iEcCom/COM-2021-0313">COM(2021)0313
+            </a> – C9-0228/2021 – <a href="#reds:DirContProc/COD-2021-0146" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2021-0146">2021/0146(COD)</a>) – INTA Committee –
+            Rapporteur: Jordi Cañas (<a href="#reds:iPlRp/A-9-2021-0333" data-rel="reds"
+                                        redmap-uri="/reds:iPlRp/A-9-2021-0333">A9-0333/2021</a>)
+        </text:p>
+        <text:p>- *** Recommendation on the draft Council decision on the conclusion, on behalf of the European Union,
+            of the Protocol to amend the Air Transport Agreement between the United States of America and the European
+            Community and its Member States (06385/2021 – C9-0368/2021 – <a href="#reds:DirContProc/NLE-2010-0112"
+                                                                            data-rel="reds"
+                                                                            redmap-uri="/reds:DirContProc/NLE-2010-0112">
+                2010/0112(NLE)</a>) – TRAN Committee – Rapporteur: Maria Grapini (<a href="#reds:iPlRp/A-9-2021-0335"
+                                                                                     data-rel="reds"
+                                                                                     redmap-uri="/reds:iPlRp/A-9-2021-0335">
+                A9-0335/2021</a>)
+        </text:p>
+        <text:p>- ***I Second report on the proposal for a regulation of the European Parliament and of the Council on
+            the access of third-country goods and services to the Union’s internal market in public procurement and
+            procedures supporting negotiations on access of Union goods and services to the public procurement markets
+            of third countries (<a href="#reds:iEcCom/COM-2016-0034" data-rel="reds"
+                                   redmap-uri="/reds:iEcCom/COM-2016-0034">COM(2016)0034
+            </a> – C8-0018/2016 – <a href="#reds:DirContProc/COD-2012-0060" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2012-0060">2012/0060(COD)</a>) – INTA Committee –
+            Rapporteur: Daniel Caspary (<a href="#reds:iPlRp/A-9-2021-0337" data-rel="reds"
+                                           redmap-uri="/reds:iPlRp/A-9-2021-0337">A9-0337/2021</a>)
+        </text:p>
+        <text:p>- Report with recommendations to the Commission on combating gender-based violence: cyberviolence (<a
+                href="#reds:DirContProc/INL-2020-2035" data-rel="reds" redmap-uri="/reds:DirContProc/INL-2020-2035">
+            2020/2035(INL)</a>) – LIBE Committee – FEMM Committee – Rapporteur: Sylwia Spurek – Rapporteur: Elissavet
+            Vozemberg-Vrionidi (<a href="#reds:iPlRp/A-9-2021-0338" data-rel="reds"
+                                   redmap-uri="/reds:iPlRp/A-9-2021-0338">A9-0338/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on the proposal for a directive of the European Parliament and of the Council amending
+            Directives 2006/43/EC, 2009/65/EC, 2009/138/EU, 2011/61/EU, EU/2013/36, 2014/65/EU, (EU) 2015/2366 and
+            EU/2016/2341 (<a href="#reds:iEcCom/COM-2020-0596" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2020-0596">
+                COM(2020)0596
+            </a> – C9-0303/2020 – <a href="#reds:DirContProc/COD-2020-0268" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0268">2020/0268(COD)</a>) – ECON Committee –
+            Rapporteur: Mikuláš Peksa (<a href="#reds:iPlRp/A-9-2021-0340" data-rel="reds"
+                                          redmap-uri="/reds:iPlRp/A-9-2021-0340">A9-0340/2021</a>)
+        </text:p>
+        <text:p>- ***I Report on the proposal for a regulation of the European Parliament and of the Council on digital
+            operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No
+            648/2012, (EU) No 600/2014 and (EU) No 909/2014 (<a href="#reds:iEcCom/COM-2020-0595" data-rel="reds"
+                                                                redmap-uri="/reds:iEcCom/COM-2020-0595">COM(2020)0595
+            </a> – C9-0304/2020 – <a href="#reds:DirContProc/COD-2020-0266" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/COD-2020-0266">2020/0266(COD)</a>) – ECON Committee –
+            Rapporteur: Billy Kelleher (<a href="#reds:iPlRp/A-9-2021-0341" data-rel="reds"
+                                           redmap-uri="/reds:iPlRp/A-9-2021-0341">A9-0341/2021</a>)
+        </text:p>
+        <text:p>- Report on the proposal for a decision of the European Parliament and of the Council on the
+            mobilisation of the European Union Solidarity Fund to provide assistance to Croatia in relation to the
+            series of earthquakes starting from 28 December 2020 (<a href="#reds:iEcCom/COM-2021-0963" data-rel="reds"
+                                                                     redmap-uri="/reds:iEcCom/COM-2021-0963">
+                COM(2021)0963
+            </a> – C9-0403/2021 – <a href="#reds:DirContProc/BUD-2021-0359" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/BUD-2021-0359">2021/0359(BUD)</a>) – BUDG Committee –
+            Rapporteur: Karlo Ressler (<a href="#reds:iPlRp/A-9-2021-0343" data-rel="reds"
+                                          redmap-uri="/reds:iPlRp/A-9-2021-0343">A9-0343/2021</a>)
+        </text:p>
+        <text:p>- Report on the proposal for a decision of the European Parliament and of the Council on the
+            mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application
+            from Spain – EGF/2021/004 ES Aragon automotive (<a href="#reds:iEcCom/COM-2021-0683" data-rel="reds"
+                                                               redmap-uri="/reds:iEcCom/COM-2021-0683">COM(2021)0683
+            </a> – C9-0404/2021 – <a href="#reds:DirContProc/BUD-2021-0356" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/BUD-2021-0356">2021/0356(BUD)</a>) – BUDG Committee –
+            Rapporteur: Esteban González Pons (<a href="#reds:iPlRp/A-9-2021-0344" data-rel="reds"
+                                                  redmap-uri="/reds:iPlRp/A-9-2021-0344">A9-0344/2021</a>)
+        </text:p>
+        <text:p>- Report on the proposal for a decision of the European Parliament and of the Council on the
+            mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application
+            from Italy – EGF/2021/003 IT Porto Canale (<a href="#reds:iEcCom/COM-2021-0935" data-rel="reds"
+                                                          redmap-uri="/reds:iEcCom/COM-2021-0935">COM(2021)0935
+            </a> – C9-0399/2021 – <a href="#reds:DirContProc/BUD-2021-0337" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/BUD-2021-0337">2021/0337(BUD)</a>) – BUDG Committee –
+            Rapporteur: Janusz Lewandowski (<a href="#reds:iPlRp/A-9-2021-0345" data-rel="reds"
+                                               redmap-uri="/reds:iPlRp/A-9-2021-0345">A9-0345/2021</a>)
+        </text:p>
+        <text:p>- Report on the proposal for a decision of the European Parliament and of the Council on the
+            mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application
+            from Italy – EGF/2021/002 IT/Air Italy (<a href="#reds:iEcCom/COM-2021-0936" data-rel="reds"
+                                                       redmap-uri="/reds:iEcCom/COM-2021-0936">COM(2021)0936
+            </a> – C9-0400/2021 – <a href="#reds:DirContProc/BUD-2021-0338" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/BUD-2021-0338">2021/0338(BUD)</a>) – BUDG Committee –
+            Rapporteur: Janusz Lewandowski (<a href="#reds:iPlRp/A-9-2021-0346" data-rel="reds"
+                                               redmap-uri="/reds:iPlRp/A-9-2021-0346">A9-0346/2021</a>)
+        </text:p>
+        <text:p>- * Report on the proposal for a Council regulation amending Regulation (EU, Euratom) No 609/2014 in
+            order to enhance predictability for Member States and to clarify procedures for dispute resolution when
+            making available the traditional, VAT and GNI based own resources (<a href="#reds:iEcCom/COM-2021-0327"
+                                                                                  data-rel="reds"
+                                                                                  redmap-uri="/reds:iEcCom/COM-2021-0327">
+                COM(2021)0327
+            </a> – C9-0257/2021 – <a href="#reds:DirContProc/NLE-2021-0161" data-rel="reds"
+                                     redmap-uri="/reds:DirContProc/NLE-2021-0161">2021/0161(NLE)</a>) – BUDG Committee –
+            Rapporteurs: José Manuel Fernandes, Valérie Hayer (<a href="#reds:iPlRp/A-9-2021-0347" data-rel="reds"
+                                                                  redmap-uri="/reds:iPlRp/A-9-2021-0347">
+                A9-0347/2021</a>)
+        </text:p>
+        <text:p>2.2) recommendation for second reading</text:p>
+        <text:p>- ***II Recommendation for second reading on the Council position at first reading with a view to the
+            adoption of a regulation of the European Parliament and of the Council on health technology assessment and
+            amending Directive 2011/24/EU (10531/3/2021 – C9-0422/2021 – <a href="#reds:DirContProc/COD-2018-0018"
+                                                                            data-rel="reds"
+                                                                            redmap-uri="/reds:DirContProc/COD-2018-0018">
+                2018/0018(COD)</a>) – ENVI Committee – Rapporteur: Tiemo Wölken (<a href="#reds:iPlRp/A-9-2021-0334"
+                                                                                    data-rel="reds"
+                                                                                    redmap-uri="/reds:iPlRp/A-9-2021-0334">
+                A9-0334/2021</a>)
+        </text:p>
+    </PV.Deposit.Text>
+    <PV.Other.Text>
+        <text:h text:level="1"><text:chapter-number>13</text:chapter-number>Order of business
+        </text:h>
+        <text:p>The final draft agenda for the plenary sittings of December 2021
+            <text:span text:style="italic">(</text:span>
+            <text:span text:style="italic">PE 702.619/PDOJ</text:span>
+            <text:span text:style="italic">)</text:span>
+            had been made available to Members and the following changes had been proposed (Rule 158):
+        </text:p>
+        <text:p>The President announced that he had received a request for urgent procedure (Rule 163) concerning the
+            following legislative file:
+        </text:p>
+        <text:p>- <OJ.ReportShortDescription.Text
+                Report.Document.Reference="[COM(2021)0627 - C9-0381/2021- 2021/0323(COD)]">Transitional provisions for
+            certain in vitro diagnostic medical devices and deferred application of requirements for in-house devices
+        </OJ.ReportShortDescription.Text> (<a href="#reds:iEcCom/COM-2021-0627" data-rel="reds"
+                                              redmap-uri="/reds:iEcCom/COM-2021-0627">COM(2021)0627
+        </a> - C9-0381/2021- <a href="#reds:DirContProc/COD-2021-0323" data-rel="reds"
+                                redmap-uri="/reds:DirContProc/COD-2021-0323">2021/0323(COD)</a>) (<text:span
+                text:style="italic">final draft agenda, item 103</text:span>).
+        </text:p>
+        <text:p>This request would be put to the vote at that day's voting session.</text:p>
+        <text:p>The President also announced that no motions to reject or amend the Council's following position at
+            first reading had been tabled pursuant to Rules 67 and 68:
+        </text:p>
+        <text:p>- <OJ.ReportShortDescription.Text
+                Report.Document.Reference="[10531/3/2021 - C9-0422/2021- 2018/0018(COD)]"
+                Reporter.MEP.Identifier="6735">Health technology assessment
+        </OJ.ReportShortDescription.Text> (<text:span text:style="italic">final draft agenda, item 140</text:span>).
+        </text:p>
+        <text:p>The vote on the amendments to the recommendation for the second reading scheduled for Tuesday's voting
+            session was thus no longer necessary.
+        </text:p>
+        <text:p>The votes would be spread over the various voting sessions depending on the number of amendments and
+            requests for split and separate votes. Information on the manner in which the votes would be spread over the
+            various voting sessions was available on Parliament’s website under ‘Priority information and documents’.
+        </text:p>
+        <text:p>The House agreed to the changes.</text:p>
+        <text:p>The order of business was thus established.</text:p>
+        <text:p text:weight="bold" text:align="center">⁂</text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6879">Joachim Kuhs</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+    </PV.Other.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>14</text:chapter-number>
+            <OJ.ReportShortDescription.Text>The 30th anniversary of the dissolution of the Soviet Union and its
+                importance for the future of Russia and Europe
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(debate)</text:span>
+        </text:h>
+        <text:p>Statement by the President: <OJ.ReportShortDescription.Text>The 30th anniversary of the dissolution of
+            the Soviet Union and its importance for the future of Russia and Europe
+        </OJ.ReportShortDescription.Text> (<a href="#reds:DirContProc/RSP-2021-2995" data-rel="reds"
+                                              redmap-uri="/reds:DirContProc/RSP-2021-2995">2021/2995(RSP)</a>)
+        </text:p>
+        <text:p>The President made the statement.</text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="7223" For.PoliticalGroup.Identifier="PPE">Rasa
+                Juknevičienė</Orator.Name>, on behalf of the PPE Group, <Orator.Name MEP.Identifier="7221"
+                                                                                     For.PoliticalGroup.Identifier="S&amp;D">
+                Juozas Olekas</Orator.Name>, on behalf of the S&amp;D Group, <Orator.Name MEP.Identifier="6936"
+                                                                                          For.PoliticalGroup.Identifier="Renew">
+                Bernard Guetta</Orator.Name>, on behalf of the Renew Group, <Orator.Name MEP.Identifier="6857"
+                                                                                         For.PoliticalGroup.Identifier="Verts/ALE">
+                Sergey Lagodinsky</Orator.Name>, on behalf of the Verts/ALE Group, <Orator.Name MEP.Identifier="6877"
+                                                                                                For.PoliticalGroup.Identifier="ID">
+                Nicolaus Fest</Orator.Name>, on behalf of the ID Group, <Orator.Name MEP.Identifier="5472"
+                                                                                     For.PoliticalGroup.Identifier="ECR">
+                Anna Fotyga</Orator.Name>, on behalf of the ECR Group
+            </Orator.List.Text>
+            ,
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6758">Martin Schirdewan</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of The Left Group, and
+            <Orator.List.Text><Orator.Name MEP.Identifier="6676" For.PoliticalGroup.Identifier="NI">Kostas
+                Papadakis</Orator.Name>, non-attached Member
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The debate closed.</text:p>
+    </PV.Debate.Text>
+    <PV.Debate.Text>
+        <text:p text:align="center">
+            <Orator.ChangeOfPresident.Text>IN THE CHAIR: Marcel KOLAJA<text:line-break/>Vice-President
+            </Orator.ChangeOfPresident.Text>
+        </text:p>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>15</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Document.Reference="[2020/2035(INL)]" Reporter.MEP.Identifier="6664">
+                Combating gender-based violence: cyberviolence
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(debate)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0338/2021" Report.Document.Reference="[2020/2035(INL)]"
+                                            Reporter.MEP.Identifier="6664">Report with recommendations to the Commission
+                on combating gender-based violence: cyberviolence [<a href="#reds:DirContProc/INL-2020-2035"
+                                                                      data-rel="reds"
+                                                                      redmap-uri="/reds:DirContProc/INL-2020-2035">
+                    2020/2035(INL)</a>] - Committee on Civil Liberties, Justice and Home Affairs - Committee on Women’s
+                Rights and Gender Equality. Rapporteurs: Elissavet Vozemberg-Vrionidi and Sylwia Spurek (<a
+                        href="#reds:iPlRp/A-9-2021-0338" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0338">
+                    A9-0338/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6664">Elissavet Vozemberg-Vrionidi</Orator.Name>
+                and
+                <Orator.Name MEP.Identifier="6943">Sylwia Spurek</Orator.Name>
+            </Orator.List.Text>
+            introduced the report.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Helena Dalli</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="7233" For.PoliticalGroup.Identifier="PPE">Maria
+                Walsh</Orator.Name>, on behalf of the PPE Group, <Orator.Name MEP.Identifier="6473"
+                                                                              For.PoliticalGroup.Identifier="S&amp;D">
+                Maria Noichl</Orator.Name>, on behalf of the S&amp;D Group, <Orator.Name MEP.Identifier="4767"
+                                                                                         For.PoliticalGroup.Identifier="Renew">
+                María Soraya Rodríguez Ramos</Orator.Name>, on behalf of the Renew Group, <Orator.Name
+                    MEP.Identifier="6924" For.PoliticalGroup.Identifier="Verts/ALE">Gwendoline
+                Delbos-Corfield</Orator.Name>, on behalf of the Verts/ALE Group, <Orator.Name MEP.Identifier="6877"
+                                                                                              For.PoliticalGroup.Identifier="ID">
+                Nicolaus Fest</Orator.Name>, on behalf of the ID Group, <Orator.Name MEP.Identifier="6515"
+                                                                                     For.PoliticalGroup.Identifier="ECR">
+                Jadwiga Wiśniewska</Orator.Name>, on behalf of the ECR Group,
+                <Orator.Name MEP.Identifier="6920">Anne-Sophie Pelletier</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of The Left Group,
+            <Orator.List.Text><Orator.Name MEP.Identifier="5271" For.PoliticalGroup.Identifier="NI">Lívia
+                Járóka</Orator.Name>, non-attached Member, <Orator.Name MEP.Identifier="7108">Frances
+                Fitzgerald</Orator.Name>, <Orator.Name MEP.Identifier="5984">Juan Fernando López Aguilar</Orator.Name>, <Orator.Name
+                    MEP.Identifier="6331">Yana Toom</Orator.Name>, <Orator.Name MEP.Identifier="6853">Alexandra Geese
+            </Orator.Name> and
+                <Orator.Name MEP.Identifier="6970">Isabella Tovaglieri</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p text:align="center">
+            <Orator.ChangeOfPresident.Text>IN THE CHAIR: Lívia JÁRÓKA<text:line-break/>Vice-President
+            </Orator.ChangeOfPresident.Text>
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="7290">Ladislav Ilčić</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7087">Elena Kountoura</Orator.Name>,
+                <Orator.Name MEP.Identifier="5983">Rosa Estaràs Ferragut</Orator.Name>
+            </Orator.List.Text>
+            ,
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6792">Evin Incir</Orator.Name>
+                and
+                <Orator.Name MEP.Identifier="7235">Samira Rafaela</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>(Continuation of debate:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="13/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-13-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-13-ITM-017">minutes of 13.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="normal">)</text:span>
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>16</text:chapter-number>Voting session
+        </text:h>
+        <text:p>The following request for urgent procedure (Rule 163) was put to the vote:</text:p>
+        <text:p>
+            <text:span text:weight="bold">
+                <OJ.ReportShortDescription.Text
+                        Report.Document.Reference="[COM(2021)0627 - C9-0381/2021- 2021/0323(COD)]">Transitional
+                    provisions for certain in vitro diagnostic medical devices and deferred application of requirements
+                    for in-house devices
+                </OJ.ReportShortDescription.Text>
+            </text:span>
+            <text:span text:weight="bold">***I</text:span>
+            <text:line-break/>
+            <OJ.ReportRef.Text Report.Document.Reference="[COM(2021)0627 - C9-0381/2021- 2021/0323(COD)]">[<a
+                    href="#reds:iEcCom/COM-2021-0627" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2021-0627">
+                COM(2021)0627
+            </a> - C9-0381/2021- <a href="#reds:DirContProc/COD-2021-0323" data-rel="reds"
+                                    redmap-uri="/reds:DirContProc/COD-2021-0323">2021/0323(COD)</a>]
+            </OJ.ReportRef.Text>
+            - ENVI Committee.
+        </text:p>
+        <text:p>Parliament voted on the amendments to:</text:p>
+        <text:p>
+            <text:span text:weight="bold">
+                <OJ.ReportShortDescription.Text Report.Number="A9-0338/2021"
+                                                Report.Document.Reference="[2020/2035(INL)]"
+                                                Reporter.MEP.Identifier="6664">Combating gender-based violence:
+                    cyberviolence
+                </OJ.ReportShortDescription.Text>
+            </text:span>
+            <text:line-break/>
+            <OJ.PresentationCommission.Text Report.Number="A9-0338/2021" Report.Document.Reference="[2020/2035(INL)]"
+                                            Reporter.MEP.Identifier="6664">Report with recommendations to the Commission
+                on combating gender-based violence: cyberviolence [<a href="#reds:DirContProc/INL-2020-2035"
+                                                                      data-rel="reds"
+                                                                      redmap-uri="/reds:DirContProc/INL-2020-2035">
+                    2020/2035(INL)</a>] - Committee on Civil Liberties, Justice and Home Affairs - Committee on Women’s
+                Rights and Gender Equality. Rapporteurs: Elissavet Vozemberg-Vrionidi and Sylwia Spurek (<a
+                        href="#reds:iPlRp/A-9-2021-0338" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0338">
+                    A9-0338/2021</a>)
+            </OJ.PresentationCommission.Text>
+            .
+        </text:p>
+        <text:p>Parliament took a single vote on:</text:p>
+        <text:p>
+            <text:span text:weight="bold">
+                <OJ.ReportShortDescription.Text Report.Number="A9-0333/2021"
+                                                Report.Document.Reference="[COM(2021)0313 - C9-0228/2021 - 2021/0146(COD)]"
+                                                Reporter.MEP.Identifier="6973">Union tariff rate quota for high quality
+                    beef from Paraguay
+                </OJ.ReportShortDescription.Text>
+            </text:span>
+            <text:span text:weight="bold">***I</text:span>
+            <text:line-break/>
+            <OJ.PresentationCommission.Text Report.Number="A9-0333/2021"
+                                            Report.Document.Reference="[COM(2021)0313 - C9-0228/2021 - 2021/0146(COD)]"
+                                            Reporter.MEP.Identifier="6973">Report on the proposal for a regulation of
+                the European Parliament and of the Council amending Regulation (EU) 2019/216 of the European Parliament
+                and of the Council as regards Union tariff rate quota for high quality beef from Paraguay [<a
+                        href="#reds:iEcCom/COM-2021-0313" data-rel="reds" redmap-uri="/reds:iEcCom/COM-2021-0313">
+                    COM(2021)0313
+                </a> - C9-0228/2021 - <a href="#reds:DirContProc/COD-2021-0146" data-rel="reds"
+                                         redmap-uri="/reds:DirContProc/COD-2021-0146">2021/0146(COD)</a>] - Committee on
+                International Trade. Rapporteur: Jordi Cañas (<a href="#reds:iPlRp/A-9-2021-0333" data-rel="reds"
+                                                                 redmap-uri="/reds:iPlRp/A-9-2021-0333">A9-0333/2021</a>)
+            </OJ.PresentationCommission.Text>
+            .
+        </text:p>
+        <text:p>The ballot would be open until 19.45.</text:p>
+        <text:p>The vote was taken.</text:p>
+        <text:p>The results of votes would be announced the next day, 14 December 2021 at 9.00 (
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="2" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-002" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-002">minutes of 14.12.2021, item 2
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            ).
+        </text:p>
+    </PV.Other.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>17</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0338/2021" Report.Document.Reference="[2020/2035(INL)]"
+                                            Reporter.MEP.Identifier="6664">Combating gender-based violence:
+                cyberviolence
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(continuation of debate)</text:span>
+        </text:h>
+        <text:p>Report with recommendations to the Commission on combating gender-based violence: cyberviolence [<a
+                href="#reds:DirContProc/INL-2020-2035" data-rel="reds" redmap-uri="/reds:DirContProc/INL-2020-2035">
+            2020/2035(INL)</a>] - Committee on Civil Liberties, Justice and Home Affairs - Committee on Women's Rights
+            and Gender Equality. Rapporteurs: Elissavet Vozemberg-Vrionidi and Sylwia Spurek (<a
+                    href="#reds:iPlRp/A-9-2021-0338" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0338">
+                A9-0338/2021</a>)
+        </text:p>
+        <text:p>(Start of debate:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="15" Pv.Session.Date="13/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-13-ITM-015" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-13-ITM-015">minutes of 13.12.2021, item 15
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="normal">)</text:span>
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="7237">Kim Van Sparrentak</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7079">Mathilde Androuët</Orator.Name>, <Orator.Name MEP.Identifier="5964">Elżbieta
+                Katarzyna Łukacijewska</Orator.Name>, <Orator.Name MEP.Identifier="7024">Maria-Manuel
+                Leitão-Marques</Orator.Name>, <Orator.Name MEP.Identifier="7058">Ramona
+                Strugariu</Orator.Name>, <Orator.Name MEP.Identifier="6484">Pina Picierno</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7014">Ivars Ijabs</Orator.Name>, <Orator.Name MEP.Identifier="6916">Łukasz Kohut
+            </Orator.Name> and
+                <Orator.Name MEP.Identifier="6136">Evelyn Regner</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Helena Dalli</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The debate closed.</text:p>
+        <text:p>Vote:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="16" Pv.Session.Date="13/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-13-ITM-016" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-13-ITM-016">minutes of 13.12.2021, item 16
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="7" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007">minutes of 14.12.2021, item 7
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="2" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-002" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-002">minutes of 14.12.2021, item 2
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="15" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015">minutes of 14.12.2021, item 15
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>18</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0315/2021" Report.Document.Reference="[2021/2020(INI)]"
+                                            Reporter.MEP.Identifier="7138">Equality between women and men in the
+                European Union in 2018-2020
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(debate)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0315/2021" Report.Document.Reference="[2021/2020(INI)]"
+                                            Reporter.MEP.Identifier="7138">Report on equality between women and men in
+                the European Union in 2018-2020 [<a href="#reds:DirContProc/INI-2021-2020" data-rel="reds"
+                                                    redmap-uri="/reds:DirContProc/INI-2021-2020">2021/2020(INI)</a>] -
+                Committee on Women’s Rights and Gender Equality. Rapporteur: Sandra Pereira (<a
+                        href="#reds:iPlRp/A-9-2021-0315" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0315">
+                    A9-0315/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <OJ.Reporter.Text Report.Number="A9-0315/2021" Report.Document.Reference="[2021/2020(INI)]"
+                              Reporter.MEP.Identifier="7138">Sandra Pereira
+            </OJ.Reporter.Text>
+            introduced the report.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Helena Dalli</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="7218" For.PoliticalGroup.Identifier="PPE">Aušra
+                Maldeikienė</Orator.Name>, on behalf of the PPE Group, <Orator.Name MEP.Identifier="6791"
+                                                                                    For.PoliticalGroup.Identifier="S&amp;D">
+                Heléne Fritzon</Orator.Name>, on behalf of the S&amp;D Group, <Orator.Name MEP.Identifier="6957"
+                                                                                           For.PoliticalGroup.Identifier="Renew">
+                Karen Melchior</Orator.Name>, on behalf of the Renew Group, <Orator.Name MEP.Identifier="6924"
+                                                                                         For.PoliticalGroup.Identifier="Verts/ALE">
+                Gwendoline Delbos-Corfield</Orator.Name>, on behalf of the Verts/ALE Group, <Orator.Name
+                    MEP.Identifier="6877" For.PoliticalGroup.Identifier="ID">Nicolaus Fest</Orator.Name>, on behalf of
+                the ID Group,
+                <Orator.Name MEP.Identifier="7169">Eugenia Rodríguez Palop</Orator.Name>
+            </Orator.List.Text>
+            , on behalf of The Left Group,
+            <Orator.List.Text><Orator.Name MEP.Identifier="7289" For.PoliticalGroup.Identifier="ECR">Michiel
+                Hoogeveen</Orator.Name>, on behalf of the ECR Group, <Orator.Name MEP.Identifier="7108">Frances
+                Fitzgerald
+            </Orator.Name> and
+                <Orator.Name MEP.Identifier="6136">Evelyn Regner</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p text:align="center">
+            <Orator.ChangeOfPresident.Text>IN THE CHAIR: Heidi HAUTALA<text:line-break/>Vice-President
+            </Orator.ChangeOfPresident.Text>
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="6940">Irène Tolleret</Orator.Name>, <Orator.Name
+                    MEP.Identifier="6856">Pierrette Herzberger-Fofana</Orator.Name>, <Orator.Name MEP.Identifier="7076">
+                Annika Bruna</Orator.Name>, <Orator.Name MEP.Identifier="6866">Assita Kanko</Orator.Name>, <Orator.Name
+                    MEP.Identifier="5271">Lívia Járóka</Orator.Name>, <Orator.Name MEP.Identifier="5983">Rosa Estaràs
+                Ferragut</Orator.Name>, <Orator.Name MEP.Identifier="7024">Maria-Manuel
+                Leitão-Marques</Orator.Name>, <Orator.Name MEP.Identifier="6931">Beata
+                Mazurek</Orator.Name>, <Orator.Name MEP.Identifier="5964">Elżbieta Katarzyna Łukacijewska</Orator.Name>, <Orator.Name
+                    MEP.Identifier="6839">Predrag Fred Matić</Orator.Name>,
+                <Orator.Name MEP.Identifier="7265">Dominik Tarczyński</Orator.Name>
+            </Orator.List.Text>
+            ,
+            <Orator.List.Text><Orator.Name MEP.Identifier="6929">Nathalie Colin-Oesterlé</Orator.Name>,
+                <Orator.Name MEP.Identifier="7140">Vera Tax</Orator.Name>
+            </Orator.List.Text>
+            ,
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="5413">Ljudmila Novak</Orator.Name>
+                and
+                <Orator.Name MEP.Identifier="6813">Loucas Fourlas</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Helena Dalli</Orator.Name>
+                and
+                <Orator.Name MEP.Identifier="7138">Sandra Pereira</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The debate closed.</text:p>
+        <text:p>Vote:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="7" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007">minutes of 14.12.2021, item 7
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="10" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010">minutes of 15.12.2021, item 10
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="15" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015">minutes of 14.12.2021, item 15
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017">minutes of 15.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>19</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Document.Reference="[10531/3/2021 - C9-0422/2021- 2018/0018(COD)]"
+                                            Reporter.MEP.Identifier="6735">Health technology assessment
+            </OJ.ReportShortDescription.Text>
+            ***II
+            <text:span text:weight="normal">(debate)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0334/2021"
+                                            Report.Document.Reference="[10531/3/2021 - C9-0422/2021 - 2018/0018(COD)]"
+                                            Reporter.MEP.Identifier="6735">Recommendation for second reading on the
+                Council position at first reading with a view to the adoption of a regulation of the European Parliament
+                and of the Council on health technology assessment and amending Directive 2011/24/EU [10531/3/2021 -
+                C9-0422/2021 - <a href="#reds:DirContProc/COD-2018-0018" data-rel="reds"
+                                  redmap-uri="/reds:DirContProc/COD-2018-0018">2018/0018(COD)</a>] - Committee on the
+                Environment, Public Health and Food Safety. Rapporteur: Tiemo Wölken (<a
+                        href="#reds:iPlRp/A-9-2021-0334" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0334">
+                    A9-0334/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <OJ.Reporter.Text Report.Document.Reference="[10531/3/2021 - C9-0422/2021- 2018/0018(COD)]"
+                              Reporter.MEP.Identifier="6735">Tiemo Wölken
+            </OJ.Reporter.Text>
+            introduced the recommendation for second reading.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text><Orator.Name MEP.Identifier="6929" For.PoliticalGroup.Identifier="PPE">Nathalie
+                Colin-Oesterlé</Orator.Name>, on behalf of the PPE Group, <Orator.Name MEP.Identifier="6603"
+                                                                                       For.PoliticalGroup.Identifier="S&amp;D">
+                Jytte Guteland</Orator.Name>, on behalf of the S&amp;D Group, <Orator.Name MEP.Identifier="6985"
+                                                                                           For.PoliticalGroup.Identifier="Renew">
+                Véronique Trillet-Lenoir</Orator.Name>, on behalf of the Renew Group, <Orator.Name MEP.Identifier="5917"
+                                                                                                   For.PoliticalGroup.Identifier="Verts/ALE">
+                Michèle Rivasi</Orator.Name>, on behalf of the Verts/ALE Group, <Orator.Name MEP.Identifier="6876"
+                                                                                             For.PoliticalGroup.Identifier="ID">
+                Markus Buchheit</Orator.Name>, on behalf of the ID Group, <Orator.Name MEP.Identifier="6923"
+                                                                                       For.PoliticalGroup.Identifier="ECR">
+                Joanna Kopcińska</Orator.Name>, on behalf of the ECR Group
+            </Orator.List.Text>
+            ,
+            <Orator.List.Text><Orator.Name MEP.Identifier="3855">Peter Liese</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7030">Sara Cerdas</Orator.Name>, <Orator.Name MEP.Identifier="7055">Nicolae
+                Ştefănuță</Orator.Name>, <Orator.Name MEP.Identifier="6776">Tilly Metz</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7224">Liudas Mažylis</Orator.Name>, <Orator.Name MEP.Identifier="7106">Nicolás
+                González Casares
+            </Orator.Name> and
+                <Orator.Name MEP.Identifier="6433">Alessandra Moretti</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+            </Orator.List.Text>
+            and
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="6735">Tiemo Wölken</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The debate closed.</text:p>
+        <text:p>The President announced that no proposals to reject or amend the Council’s position at first reading had
+            been tabled pursuant to Rules 67 and 68.
+        </text:p>
+        <text:p>The Council position was therefore deemed approved.</text:p>
+        <text:p>The proposed act was thus deemed adopted
+            <text:span text:style="italic">(</text:span>
+            <text:span text:style="italic">
+                <TA.Reference.List.Text>
+                    <TA.Reference.Text TA.Identifier="P9_TA(2021)0484">
+                        <a href="#reds:iPlTa_Itm/TA-9-2021-0484" data-rel="reds"
+                           redmap-uri="/reds:iPlTa_Itm/TA-9-2021-0484/red:cycle_FNL" data-family="reds:iPlTa"
+                           data-version="FNL">P9_TA(2021)0484
+                        </a>
+                    </TA.Reference.Text>
+                </TA.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">)</text:span>.
+        </text:p>
+        <text:p text:style="italic">(‘Results of votes’ annex, item 1)</text:p>
+    </PV.Other.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>20</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0330/2021" Report.Document.Reference="[2020/2221(INI)]"
+                                            Reporter.MEP.Identifier="6344">The impact of organised crime on own
+                resources of the EU and on the misuse of EU funds
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(short presentation)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0330/2021" Report.Document.Reference="[2020/2221(INI)]"
+                                            Reporter.MEP.Identifier="6344">Report on the impact of organised crime on
+                own resources of the EU and on the misuse of EU funds with a particular focus on shared management from
+                an auditing and control perspective [<a href="#reds:DirContProc/INI-2020-2221" data-rel="reds"
+                                                        redmap-uri="/reds:DirContProc/INI-2020-2221">2020/2221(INI)</a>]
+                - Committee on Budgetary Control. Rapporteur: Tomáš Zdechovský (<a href="#reds:iPlRp/A-9-2021-0330"
+                                                                                   data-rel="reds"
+                                                                                   redmap-uri="/reds:iPlRp/A-9-2021-0330">
+                    A9-0330/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <Orator.List.Text>
+                <Orator.Name MEP.Identifier="5953">Monika Hohlmeier</Orator.Name>
+            </Orator.List.Text>
+            (deputising for the rapporteur) made the presentation.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The item closed.</text:p>
+        <VoteItem.Point.Text>
+            <text:p>Vote:
+                <text:span text:style="italic">
+                    <Pv.Reference.List.Text>
+                        <Pv.Reference.Text Pv.Point.Identifier="10" Pv.Session.Date="15/12/2021">
+                            <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010" data-rel="reds"
+                               redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010">minutes of 15.12.2021, item 10
+                            </a>
+                        </Pv.Reference.Text>
+                    </Pv.Reference.List.Text>
+                </text:span>
+                .
+            </text:p>
+        </VoteItem.Point.Text>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017">minutes of 15.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="normal">.</text:span>
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>21</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0320/2021" Report.Document.Reference="[2020/2222(INI)]"
+                                            Reporter.MEP.Identifier="5917">Avoiding corruption, irregular spending and
+                misuse of EU and national funds in case of emergency funds and crisis related spending areas
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(short presentation)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0320/2021" Report.Document.Reference="[2020/2222(INI)]"
+                                            Reporter.MEP.Identifier="5917">Report on the evaluation of preventive
+                measures for avoiding corruption, irregular spending and misuse of EU and national funds in case of
+                emergency funds and crisis-related spending areas [<a href="#reds:DirContProc/INI-2020-2222"
+                                                                      data-rel="reds"
+                                                                      redmap-uri="/reds:DirContProc/INI-2020-2222">
+                    2020/2222(INI)</a>] - Committee on Budgetary Control. Rapporteur: Michèle Rivasi (<a
+                        href="#reds:iPlRp/A-9-2021-0320" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0320">
+                    A9-0320/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <OJ.Reporter.Text Report.Number="A9-0320/2021" Report.Document.Reference="[2020/2222(INI)]"
+                              Reporter.MEP.Identifier="5917">Michèle Rivasi
+            </OJ.Reporter.Text>
+            made the presentation.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p text:align="center">
+            <Orator.ChangeOfPresident.Text>IN THE CHAIR: Nicola BEER<text:line-break/>Vice-President
+            </Orator.ChangeOfPresident.Text>
+        </text:p>
+        <text:p>The item closed.</text:p>
+        <VoteItem.Point.Text>
+            <text:p>Vote:
+                <text:span text:style="italic">
+                    <Pv.Reference.List.Text>
+                        <Pv.Reference.Text Pv.Point.Identifier="10" Pv.Session.Date="15/12/2021">
+                            <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010" data-rel="reds"
+                               redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010">minutes of 15.12.2021, item 10
+                            </a>
+                        </Pv.Reference.Text>
+                    </Pv.Reference.List.Text>
+                </text:span>
+                .
+            </text:p>
+        </VoteItem.Point.Text>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017">minutes of 15.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="normal">.</text:span>
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>22</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0321/2021" Report.Document.Reference="[2021/2077(INI)]"
+                                            Reporter.MEP.Identifier="5855">Implementation of the Energy Performance of
+                Buildings Directive
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(short presentation)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0321/2021" Report.Document.Reference="[2021/2077(INI)]"
+                                            Reporter.MEP.Identifier="5855">Report on the implementation of the Energy
+                Performance of Buildings Directive [<a href="#reds:DirContProc/INI-2021-2077" data-rel="reds"
+                                                       redmap-uri="/reds:DirContProc/INI-2021-2077">2021/2077(INI)</a>]
+                - Committee on Industry, Research and Energy. Rapporteur: Seán Kelly (<a
+                        href="#reds:iPlRp/A-9-2021-0321" data-rel="reds" redmap-uri="/reds:iPlRp/A-9-2021-0321">
+                    A9-0321/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <OJ.Reporter.Text Report.Number="A9-0321/2021" Report.Document.Reference="[2021/2077(INI)]"
+                              Reporter.MEP.Identifier="5855">Seán Kelly
+            </OJ.Reporter.Text>
+            made the presentation.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The item closed.</text:p>
+        <text:p>Vote:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="7" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007">minutes of 14.12.2021, item 7
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="10" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010">minutes of 15.12.2021, item 10
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="15" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015">minutes of 14.12.2021, item 15
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017">minutes of 15.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Debate.Text>
+        <text:h text:weight="bold" text:level="1">
+            <text:chapter-number>23</text:chapter-number>
+            <OJ.ReportShortDescription.Text Report.Number="A9-0324/2021" Report.Document.Reference="[2020/2001(INI)]"
+                                            Reporter.MEP.Identifier="6890">Challenges and prospects for multilateral
+                weapons of mass destruction arms control and disarmament regimes
+            </OJ.ReportShortDescription.Text>
+            <text:span text:weight="normal">(short presentation)</text:span>
+        </text:h>
+        <text:p>
+            <OJ.PresentationCommission.Text Report.Number="A9-0324/2021" Report.Document.Reference="[2020/2001(INI)]"
+                                            Reporter.MEP.Identifier="6890">Report on the challenges and prospects for
+                multilateral weapons of mass destruction arms control and disarmament regimes [<a
+                        href="#reds:DirContProc/INI-2020-2001" data-rel="reds"
+                        redmap-uri="/reds:DirContProc/INI-2020-2001">2020/2001(INI)</a>] - Committee on Foreign Affairs.
+                Rapporteur: Sven Mikser (<a href="#reds:iPlRp/A-9-2021-0324" data-rel="reds"
+                                            redmap-uri="/reds:iPlRp/A-9-2021-0324">A9-0324/2021</a>)
+            </OJ.PresentationCommission.Text>
+        </text:p>
+        <text:p>
+            <OJ.Reporter.Text Report.Number="A9-0324/2021" Report.Document.Reference="[2020/2001(INI)]"
+                              Reporter.MEP.Identifier="6890">Sven Mikser
+            </OJ.Reporter.Text>
+            made the presentation.
+        </text:p>
+        <text:p>The following spoke:
+            <Orator.List.Text>
+                <Orator.Name>Stella Kyriakides</Orator.Name>
+                (Member of the Commission)
+            </Orator.List.Text>
+            .
+        </text:p>
+        <text:p>The item closed.</text:p>
+        <text:p>Vote:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="7" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-007">minutes of 14.12.2021, item 7
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="10" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-010">minutes of 15.12.2021, item 10
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+        <text:p>Announcement of voting results:
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="15" Pv.Session.Date="14/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-14-ITM-015">minutes of 14.12.2021, item 15
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(amendments);</text:span>
+            <text:span text:style="italic">
+                <Pv.Reference.List.Text>
+                    <Pv.Reference.Text Pv.Point.Identifier="17" Pv.Session.Date="15/12/2021">
+                        <a href="#reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017" data-rel="reds"
+                           redmap-uri="/reds:iPlPv_Itm/PV-9-2021-12-15-ITM-017">minutes of 15.12.2021, item 17
+                        </a>
+                    </Pv.Reference.Text>
+                </Pv.Reference.List.Text>
+            </text:span>
+            <text:span text:style="italic">(final vote)</text:span>.
+        </text:p>
+    </PV.Debate.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>24</text:chapter-number>One-minute speeches on
+            matters of political importance
+        </text:h>
+        <text:p>In accordance with Rule 172, the following Members who wished to draw Parliament’s attention to matters
+            of political importance spoke for one minute:
+        </text:p>
+        <text:p>
+            <Orator.List.Text><Orator.Name MEP.Identifier="6465">Fulvio Martusciello</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7057">Vlad-Marius Botoş</Orator.Name>, <Orator.Name MEP.Identifier="7020">Maxette
+                Pirbakas</Orator.Name>, <Orator.Name MEP.Identifier="7289">Michiel Hoogeveen</Orator.Name>, <Orator.Name
+                    MEP.Identifier="6727">João Pimenta Lopes</Orator.Name>, <Orator.Name MEP.Identifier="6341">Michaela
+                Šojdrová</Orator.Name>, <Orator.Name MEP.Identifier="7203">Billy Kelleher</Orator.Name>, <Orator.Name
+                    MEP.Identifier="6808">Charlie Weimers</Orator.Name>, <Orator.Name MEP.Identifier="7138">Sandra
+                Pereira</Orator.Name>, <Orator.Name MEP.Identifier="7061">Eugen Tomac</Orator.Name>, <Orator.Name
+                    MEP.Identifier="7133">José Gusmão</Orator.Name>, <Orator.Name MEP.Identifier="7149">Peter
+                Pollák</Orator.Name>, <Orator.Name MEP.Identifier="7113">Clare Daly</Orator.Name> and
+                <Orator.Name MEP.Identifier="7202">Mick Wallace</Orator.Name>
+            </Orator.List.Text>
+            .
+        </text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>25</text:chapter-number>Explanations of vote
+        </text:h>
+        <text:p text:style="italic">Written explanations of vote:</text:p>
+        <text:p>Explanations of vote submitted in writing under Rule 194 appear on the Members’ pages on Parliament’s
+            website.
+        </text:p>
+        <text:p>Exceptionally, explanations of vote of a maximum of 400 words would be accepted.</text:p>
+    </PV.Other.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>26</text:chapter-number>Corrections to votes and
+            voting intentions
+        </text:h>
+        <text:p>Corrections to votes and voting intentions appear on Parliament’s website under ‘Results of roll-call
+            votes’ as an annex to the minutes of the sitting. They are for information only and have no effect on the
+            result of the vote as announced in plenary.
+        </text:p>
+        <text:p>The document will be regularly updated in the two weeks following the part-session concerned.</text:p>
+        <text:p>After those two weeks, the list of corrections to votes and voting intentions will be finalised so that
+            it can be translated and published in the Official Journal.
+        </text:p>
+    </PV.Other.Text>
+    <PV.Agenda.Text>
+        <DebateArt50.End.Text>
+            <text:h text:weight="bold" text:level="1"><text:chapter-number>27</text:chapter-number>Agenda of the next
+                sitting
+            </text:h>
+        </DebateArt50.End.Text>
+        <text:p>The agenda of the next day<text:span>’</text:span>s sitting had been established (<text:span>
+            ‘</text:span>Agenda<text:span>’</text:span>
+            <text:span text:style="italic">PE 702.619/OJMA</text:span>).
+        </text:p>
+    </PV.Agenda.Text>
+    <PV.Other.Text>
+        <text:h text:weight="bold" text:level="1"><text:chapter-number>28</text:chapter-number>Closure of the sitting
+        </text:h>
+        <text:p>The sitting closed at 21.30.</text:p>
+        <text:p/>
+        <text:p/>
+        <table:table style:width="9.209cm" table:align="margins">
+            <table:table-column style:column-width="4.604cm" style:rel-column-width="32767*"/>
+            <table:table-column style:column-width="4.606cm" style:rel-column-width="32768*"/>
+            <table:table-row>
+                <table:table-cell>
+                    <text:p text:align="center">Klaus Welle</text:p>
+                </table:table-cell>
+                <table:table-cell>
+                    <text:p text:align="center">Roberta Metsola</text:p>
+                </table:table-cell>
+            </table:table-row>
+            <table:table-row>
+                <table:table-cell>
+                    <text:p text:style="italic" text:align="center">Secretary-General</text:p>
+                </table:table-cell>
+                <table:table-cell>
+                    <text:p text:style="italic" text:align="center">Acting President</text:p>
+                </table:table-cell>
+            </table:table-row>
+        </table:table>
+    </PV.Other.Text>
+    <PV.AttendanceRegister>
+        <AttendanceRegister.Title.Text>ATTENDANCE REGISTER</AttendanceRegister.Title.Text>
+        <AttendanceRegister.Introduction.Text>Present:</AttendanceRegister.Introduction.Text>
+        <Attendance.Participant.Name MEP.Identifier="189525">Ademov Asim</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124831">Adinolfi Isabella</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197826">Adinolfi Matteo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197403">Agius Saliba Alex</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="198096">Aguilar Mazaly</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125045">Aguilera Clara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204335">Alametsä Alviina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197836">Alexandrov Yordanov Alexander</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96750">Alfonsi François</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197848">Alieva-Veli Atidzhe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197448">Andresen Rasmus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204332">Andrews Barry</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="113892">Andrieu Eric</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="202073">Angel Marc</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124973">Annemans Gerolf</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124696">Ansip Andrus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124936">Arena Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96808">Arias Echeverría Pablo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197492">Arłukowicz Bartosz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124766">Auštrevičius Petras</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197651">Avram Carmen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197781">Azmani Malik</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197495">Balt Marek Paweł</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197808">Bartolo Pietro</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197671">Băsescu Traian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197610">Basso Alessandra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197779">Bauzá Díaz José Ramón</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="132191">Beck Gunnar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197437">Beer Nicola</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124777">Beghin Tiziana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197680">Beigneux Aurélia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124867">Benifei Brando</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197679">Benjumea Benjumea Isabel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197478">Berg Lars Patrick</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197410">Berger Stefan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197648">Bernhuber Alexander</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="23788">Bielan Adam</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197551">Bijoux Stéphane</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96922">Bilbao Barandica Izaskun</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197771">Bilčík Vladimír</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124771">Bilde Dominique</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197435">Bischoff Gabriele</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197512">Biteau Benoît</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="97198">Bizzotto Mara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197564">Blaško Hynek</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96681">Blinkevičiūtė Vilija</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197449">Bloss Michael</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124712">Bocskor Andrea</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125004">Bogovič Franc</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124814">Bonafè Simona</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="101039">Borchia Paolo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="112748">Borzan Biljana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="187917">Botenga Marc</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197668">Botoş Vlad-Marius</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197577">Boyer Gilles</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197501">Brudziński Joachim Stanisław</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="182995">Bruna Annika</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="128483">Buchheit Markus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125012">Buda Daniel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="4267">Bullmann Udo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="38420">Buşoi Cristian-Silviu</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197829">Buxadé Villalba Jorge</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="35016">Campomenosi Marco</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="126644">Cañas Jordi</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96711">Canfin Pascal</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197574">Carême Damien</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197797">Caroppo Andrea</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="199996">Carvalhais Isabel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28219">Caspary Daniel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124812">Castaldo Fabio Massimo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28390">del Castillo Vera Pilar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="86793">Cavazzini Anna</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197641">Cerdas Sara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124708">Charanzová Dita</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197463">Chastel Olivier</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197558">Christensen Asger</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="26837">Christoforou Lefteris</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197507">Cimoszewicz Włodzimierz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197631">Cioloş Dacian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197657">Ciuhodaru Tudor</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124988">Clune Deirdre</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197536">Colin-Oesterlé Nathalie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197503">Cormand David</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124856">Corrao Ignazio</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197588">Cseh Katalin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197394">Cutajar Josianne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28372">Czarnecki Ryszard</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96809">van Dalen Peter</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="183338">Dalunde Jakop G.</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197731">Daly Clare</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96747">Danjean Arnaud</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124821">Danti Nicola</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197608">Da Re Gianantonio</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197556">David Ivan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96891">De Castro Paolo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197504">Decerle Jérémy</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197531">Delbos-Corfield Gwendoline</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124714">Deli Andor</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96868">Delli Karima</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197472">De Man Filip</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204333">De Meo Salvatore</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197468">Demirel Özlem</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96787">Dorfmann Herbert</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197614">Dreosto Marco</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197510">Duda Jarosław</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124693">Durand Pascal</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197766">Ďuriš Nicholsonová Lucia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124873">Dzhambazki Angel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28226">Ehler Christian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96725">Eickhout Bas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="209091">Engerer Cyrus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96842">Ertug Ismail</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96811">Estaràs Ferragut Rosa</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124779">Evi Eleonora</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197535">Evren Agnès</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197649">Falcă Gheorghe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="1917">Ferber Markus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96899">Fernandes José Manuel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125046">Fernández Jonás</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="192634">Ferrandino Giuseppe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124833">Ferrara Laura</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197480">Fest Nicolaus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96810">Fidanza Carlo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197720">Fitzgerald Frances</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197419">Flego Valter</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28353">Fotyga Anna</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197414">Fourlas Loucas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197513">Frankowski Tomasz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197391">Fritzon Heléne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="101585">Fuglsang Niels</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197795">Furore Mario</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="2341">Gahler Michael</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197702">Gálvez Muñoz Lina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197717">García Del Blanco Ibán</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197742">García Muñoz Isabel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96991">Gardiazabal Rubial Eider</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197554">Garicano Luis</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="1913">Gebhardt Evelyne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="183916">Geese Alexandra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96833">Geier Jens</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197794">Gemma Chiara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197416">Georgiou Giorgos</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197819">Georgoulis Alexis</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="209140">Gheorghe Vlad</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="202036">Glavak Sunčana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197443">Glück Andreas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="840">Goerens Charles</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197728">González Mónica Silvana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197718">González Casares Nicolás</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125027">González Pons Esteban</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204419">Gozi Sandro</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="94649">Griset Catherine</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197780">Groothuis Bart</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197452">Grošelj Klemen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197557">Grudler Christophe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204420">Gruffat Claude</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197543">Guetta Bernard</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96952">Guillaume Sylvie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="88715">Gusmão José</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="198063">Gyöngyösi Márton</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96830">Győri Enikő</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197444">Hahn Svenja</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197514">Halicki Andrzej</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="193419">Hansen Christophe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="2054">Hautala Heidi</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197646">Hava Mircea-Gheorghe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197682">Heide Hannes</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197800">Heinäluoma Eero</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197412">Herbst Niclas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197459">Herzberger-Fofana Pierrette</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197526">Hlaváček Martin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96780">Hohlmeier Monika</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197770">Hojsík Martin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197398">Holmgren Pär</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="122978">Homs Ginel Alicia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="218349">Hoogeveen Michiel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="5565">Hortefeux Brice</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197846">Hristov Ivo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="58789">Huitema Jan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197624">Ijabs Ivars</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="221463">Ilčić Ladislav</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197392">Incir Evin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28266">in 't Veld Sophia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96772">Jahr Peter</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197516">Jaki Patryk</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="189065">Jamet France</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28141">Járóka Lívia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197517">Jarubas Adam</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="112747">Jerković Romana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125021">Jongerius Agnes</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197627">Joron Virginie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197840">Juknevičienė Rasa</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197626">Juvin Herve</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125109">Kaili Eva</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96771">Kalinowski Jarosław</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197491">Kaljurand Marina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96934">Kalniete Sandra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96837">Kammerevert Petra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197469">Kanko Assita</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="4246">Karas Othmar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197585">Karleskind Pierre</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124887">Karski Karol</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197818">Kelleher Billy</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="22858">Keller Fabienne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96668">Kelly Seán</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197519">Kempa Beata</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197415">Kizilyürek Niyazi</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197520">Kloc Izabela-Helena</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197528">Knotek Ondřej</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197523">Kohut Łukasz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197546">Kolaja Marcel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197438">Kolakušić Mislav</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197740">Konstantinou Athanasios</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197525">Kopacz Ewa</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197530">Kopcińska Joanna</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197445">Körner Moritz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96829">Kósa Ádám</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124822">Köster Dietmar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197699">Kountoura Elena</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="118949">Kovařík Ondřej</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="97968">Kovatchev Andrey</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197481">Krah Maximilian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="1854">Krehl Constanze</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197532">Kruk Elżbieta</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197843">Kubilius Andrius</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197395">Kuhnke Alice</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197482">Kuhs Joachim</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28389">Kuźmiuk Zbigniew</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125063">Kyrtsos Georgios</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124866">Kyuchyuk Ilhan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204421">Lacapelle Jean-Lin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197460">Lagodinsky Sergey</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="192635">Lancini Danilo Oscar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="1909">Lange Bernd</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197461">Langensiepen Katrin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197597">Laporte Hélène</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197698">Larrouturou Pierre</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124738">Lebreton Gilles</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197635">Leitão-Marques Maria-Manuel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="95074">Lenaers Jeroen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="23781">Lewandowski Janusz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="23768">Liberadzki Bogusław</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="1927">Liese Peter</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197611">Lizzi Elena</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197494">Loiseau Nathalie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125042">López Javi</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96812">López Aguilar Juan Fernando</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197777">López Gil Leopoldo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197721">Luena César</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96791">Łukacijewska Elżbieta Katarzyna
+        </Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124806">McAllister David</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197493">Madison Jaak</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197719">Maestre Martín De Almagro Cristina
+        </Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197592">Majorino Pierfrancesco</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197835">Maldeikienė Aušra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197735">Maldonado López Adriana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="4560">Manders Antonius</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197623">Mariani Thierry</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="33982">Marinescu Marian-Jean</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="209896">Markey Colm</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197462">Marquardt Erik</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197634">Marques Pedro</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124828">Martusciello Fulvio</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197441">Matić Predrag Fred</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96936">Mato Gabriel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="24505">Maurel Emmanuel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124691">Mavrides Costas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="38511">Mayer Georg</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197538">Mazurek Beata</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197841">Mažylis Liudas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204418">Mebarek Nora</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197662">Meimarakis Vangelis</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197567">Melchior Karen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="118859">Metsola Roberta</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="193292">Metz Tilly</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="190518">Meuthen Jörg</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197497">Mikser Sven</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28400">Millán Mon Francisco José</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="212855">Mituța Alin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124722">Molnár Csaba</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197711">Montserrat Dolors</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="72779">Morano Nadine</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28347">Moreno Sánchez Javier</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124799">Moretti Alessandra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197647">Motreanu Dan-Ştefan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197541">Możdżanowska Andżelika Anna</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124862">Müller Ulrike</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124802">Mureşan Siegfried</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="190519">Nagtegaal Caroline</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="88882">Negrescu Victor</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197464">Neumann Hannah</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96844">Neuser Norbert</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="202112">Nistor Gheorghe-Vlad</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124836">Noichl Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28294">Novak Ljudmila</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="107212">Novakov Andrey</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197542">Ochojska Janina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197432">Oetjen Jan-Christoph</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197838">Olekas Juozas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197687">Olivier Philippe</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="129073">Paet Urmas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125038">Pagazaurtundúa Maite</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="99283">Panza Alessandro</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124692">Papadakis Demetris</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28586">Papadimoulis Dimitrios</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197466">Paulus Jutta</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124844">Pedicini Piernicola</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197563">Pekkarinen Mauri</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197527">Pelletier Anne-Sophie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197845">Penkova Tsvetelina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197754">Pereira Sandra</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197738">Pereira Lídia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124846">Picierno Pina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="112744">Picula Tonino</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28224">Pieper Markus</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197619">Pignedoli Sabrina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="136236">Pimenta Lopes João</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197629">Pirbakas Maxette</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197590">Pisapia Giuliano</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197663">Pîslaru Dragoş</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="38595">Plumb Rovana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124704">Polčák Stanislav</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197765">Pollák Peter</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204443">Ponsatí Obiols Clara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96801">Poręba Tomasz Piotr</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125706">Pospíšil Jiří</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197764">Radačovský Miroslav</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="188945">Radtke Dennis</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197868">Rafaela Samira</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197544">Rafalska Elżbieta</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96903">Rangel Paulo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96998">Regner Evelyn</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197681">Rego Sira</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197488">Reil Guido</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="103381">Reintke Terry</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197413">Ressler Karlo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197832">Riba i Giner Diana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="4253">Ries Frédérique</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197787">Rinaldi Antonio Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197615">Rivière Jérôme</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125043">Rodríguez-Piñero Inma</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="4344">Rodríguez Ramos María Soraya</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197584">Rónai Sándor</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197792">Rondinelli Daniela</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197776">Rooken Rob</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204733">Rookmaker Dorien</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197709">Roos Robert</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197506">Roose Caroline</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125214">Ropė Bronis</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204413">Ros Sempere Marcos</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="127096">Ruiz Devesa Domènec</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197545">Rzońca Bogdan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204368">Sagartz Christian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125670">Salini Massimiliano</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197722">Sánchez Amor Nacho</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="24594">Sander Anne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124781">Sant Alfred</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197578">Sardone Silvia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96864">Sassoli David Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="37312">Schaldemose Christel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="213330">Schaller-Baross Ernő</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197670">Schieder Andreas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197422">Schneider Christine</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96646">Scholz Helmut</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124837">Schuster Joachim</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28223">Schwab Andreas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197425">Seekatz Ralf</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197423">Semsrott Nico</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197677">Sidl Günther</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124747">Silva Pereira Pedro</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="103746">Šimečka Michal</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197426">Simon Sven</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197935">Sinčić Ivan Vilibor</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197390">Skyttedal Sara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124710">Šojdrová Michaela</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197417">Sokol Tomislav</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="185974">Solé Jordi</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197784">Solís Pérez Susana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124834">Sonneborn Martin</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197550">Spurek Sylwia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125064">Spyraki Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197825">Stancanelli Raffaele</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124929">Štefanec Ivan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197772">Strik Tineke</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="134605">Strugariu Ramona</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197553">Szydło Beata</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125020">Tang Paul</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="29579">Tarabella Marc</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="204346">Tarczyński Dominik</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197756">Tax Vera</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197655">Terheş Cristian</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197591">Tinagli Irene</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197402">Tobé Tomas</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197559">Tobiszowski Grzegorz</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28340">Toia Patrizia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197547">Tolleret Irène</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197672">Tomac Eugen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125104">Tomc Romana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="114268">Torvalds Nils</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96713">Tošenovský Evžen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="27714">Tóth Edina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197580">Tovaglieri Isabella</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197593">Trillet-Lenoir Véronique</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197763">Uhrík Milan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124972">Urtasun Ernest</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197810">Ušakovs Nils</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="185771">Vandendriessche Tom</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="129164">Vandenkendelaere Tom</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197870">Van Sparrentak Kim</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="130100">Vautmans Hilde</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="97058">Verhofstadt Guy</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="125001">Vilimsky Harald</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197827">Villanueva Ruiz Idoia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="98582">Vincze Loránt</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="199941">Vind Marianne</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197844">Vitanov Petar</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197678">Vollath Bettina</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197537">Vondra Alexandr</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96761">Voss Axel</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197552">Vrecionová Veronika</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197798">Vuolo Lucia</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197817">Wallace Mick</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197863">Walsh Maria</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197429">Walsmann Marion</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197405">Warborn Jörgen</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197566">Waszczykowski Witold Jan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="123562">Weimers Charlie</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197515">Weiss Pernille</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="2323">Wieland Rainer</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197769">Wiezik Michal</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124877">Wiśniewska Jadwiga</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="185619">Wölken Tiemo</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="5392">Wolters Lara</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197511">Yenbou Salima</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197499">Zacharopoulou Chrysoula</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="23712">Zahradil Jan</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197572">Zalewska Anna</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197586">Zambelli Stefania</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197606">Zarzalejos Javier</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28619">Ždanoka Tatjana</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="28615">Zīle Roberts</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124884">Złotowski Kosma</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="197621">Zoido Álvarez Juan Ignacio</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="124739">Zorrinho Carlos</Attendance.Participant.Name>
+        <Attendance.Participant.Name MEP.Identifier="96933">Zver Milan</Attendance.Participant.Name>
+        <AttendanceRegister.Excused.Introduction.Text>Excused:</AttendanceRegister.Excused.Introduction.Text>
+        <Attendance.Excused.Name MEP.Identifier="197576">Brunet Sylvie</Attendance.Excused.Name>
+        <Attendance.Excused.Name MEP.Identifier="197447">Joveva Irena</Attendance.Excused.Name>
+        <Attendance.Excused.Name MEP.Identifier="120478">Michels Martina</Attendance.Excused.Name>
+        <Attendance.Excused.Name MEP.Identifier="204414">de la Pisa Carrión Margarita</Attendance.Excused.Name>
+        <AttendanceRegister.Disclaimer.Text>Owing to the COVID-19 pandemic, a remote voting system had been introduced
+            (see Bureau Decision of 20 March 2020 supplementing its Decision of 3 May 2004 on rules governing voting).
+            The Members who voted are listed in the ‘Results of roll-call votes’ document, which is annexed to the
+            minutes of the sitting and available on Parliament’s website.
+        </AttendanceRegister.Disclaimer.Text>
+    </PV.AttendanceRegister>
+</PV>
